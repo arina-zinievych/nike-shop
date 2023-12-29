@@ -4,6 +4,8 @@ import cheveronRight from './chevron-right.svg'
 import copyrightSign from './copyright-sign.svg'
 import facebook from './facebook.svg'
 import hamburger from './hamburger.svg'
+import cart from './cart.svg'
+import close from './close.svg'
 import instagram from './instagram.svg'
 import support from './support.svg'
 import shieldTick from './shield-tick.svg'
@@ -18,6 +20,8 @@ export {
     copyrightSign,
     facebook,
     hamburger,
+    cart,
+    close,
     instagram,
     support,
     shieldTick,
